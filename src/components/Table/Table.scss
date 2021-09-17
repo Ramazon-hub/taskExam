@@ -1,0 +1,7 @@
+.box{
+  height: 450px;
+  overflow-y: auto;
+  &::-webkit-scrollbar{
+    display: none;
+  }
+}
